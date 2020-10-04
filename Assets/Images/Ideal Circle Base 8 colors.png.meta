@@ -1,0 +1,272 @@
+fileFormatVersion: 2
+guid: d30997db77d201c4fa0be749d65d967e
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Ideal Circle Base 8 colors_7
+    21300002: Ideal Circle Base 8 colors_1
+    21300004: Ideal Circle Base 8 colors_3
+    21300006: Ideal Circle Base 8 colors_3
+    21300008: Ideal Circle Base 8 colors_4
+    21300010: Ideal Circle Base 8 colors_5
+    21300012: Ideal Circle Base 8 colors_4
+    21300014: Ideal Circle Base 8 colors_7
+    21300016: Ideal Circle Base 8 colors_8
+    21300018: Ideal Circle Base 8 colors_6
+    21300020: Ideal Circle Base 8 colors_0
+    21300022: Ideal Circle Base 8 colors_11
+    21300024: Ideal Circle Base 8 colors_2
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ideal Circle Base 8 colors_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 163
+        width: 164
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d4fd8fdbf414b34b83216f04623fa09
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ideal Circle Base 8 colors_1
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 833
+        width: 319
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a86d4882ff91884d9d3514ce1559ac4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ideal Circle Base 8 colors_3
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 516
+        width: 165
+        height: 321
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1b48bf965a6d3448724609a81a1c27
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ideal Circle Base 8 colors_5
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 0
+        width: 319
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea15e22b3a116b9439f1afbe094856d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ideal Circle Base 8 colors_4
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 161
+        width: 162
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6dc68b20f0b2f74b8d4021b231afa38
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ideal Circle Base 8 colors_6
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 0
+        width: 318
+        height: 164
+      alignment: 9
+      pivot: {x: 0.51537544, y: 0.49056327}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e1c760d3001034fb450ce5f8e994da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ideal Circle Base 8 colors_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 519
+        width: 160
+        height: 316
+      alignment: 9
+      pivot: {x: 0.47966558, y: 0.4681472}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24517c7b8047a9a4c95c3c191cc32bbe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ideal Circle Base 8 colors_2
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 835
+        width: 318
+        height: 165
+      alignment: 9
+      pivot: {x: 0.45357642, y: 0.52846825}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f80cde7ac855f0e4a8917a72a9acb4c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c2ff91cc7eee8164288c327f020ac52b
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
